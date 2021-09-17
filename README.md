@@ -12,7 +12,6 @@ Portanto, aprender as bases das linguagens de programação se tornará uma qual
 
 Os conhecimentos de programação incluem lógica, tomadas de decisão, resolução de problemas, o que colabora em produções criativas que ajudam no trabalho do profissional. Tudo isso traz eficiencia, criatividade e produz inovação no meio profissional.
 
-
 <br/>
 
 # Description
