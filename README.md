@@ -249,6 +249,7 @@ Syntax highlighted code block
 
 
 # Roadmap
+1- [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
 
 # Support or Contact
 Contate os colaboradores do projeto para obter suporte do projeto.
@@ -259,10 +260,26 @@ Contate os colaboradores do projeto para obter suporte do projeto.
 ![image](https://img.shields.io/badge/conda-342B029.svg?&style=&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/GitKraken-179287?style=&logo=GitKraken&logoColor=white)
 
+Sinta-se à vontade para reportar um Issue antes de fazer um Pull Request! 
+
 
 # Authors
-### Igor Alves, Gustavo Raime e Vinicius
+### Igor Alves, Gustavo Raime e Vinicius Henrique
+
 # License
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 # Project status
 
