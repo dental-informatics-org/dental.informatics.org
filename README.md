@@ -2,6 +2,7 @@
 ![image](https://img.shields.io/github/languages/top/dental-informatics-org/dental.informatics.org)
 ![image](https://img.shields.io/github/repo-size/dental-informatics-org/dental.informatics.org?style=)
 ![image](https://img.shields.io/hexpm/l/plug?style=)
+
 <br/>
 Este repositório tem como objetivo fornecer material necessário para conhecimento e aprendizado de linguagens de programação para que cirurgiões-dentistas desenvolvam novas ferramentas e soluções inovadoras em sua área de atuação.
 
