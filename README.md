@@ -245,7 +245,7 @@ Syntax highlighted code block
 ![image](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=&logo=ios&logoColor=white)
-
+As atividades propostas por esse curso presente neste repositório são pensadas para serem compatíveis com todos os dispositivos. Recomendamos o uso de computadores para desenvolver as atividades propostas, mas a visualização pode ser feita também em dispositivos mobile. Verifique o tópico **Roadmap** para seguir o roteiro das atividades.
 
 # Roadmap
 1- [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
@@ -261,9 +261,8 @@ Contate os colaboradores do projeto para obter suporte do projeto.
 
 Sinta-se à vontade para reportar um Issue antes de fazer um Pull Request! 
 
-
 # Authors
-### Igor Alves, Gustavo Raime e Vinicius Henrique
+### [Igor Alves](https://github.com/igoralves1), [Gustavo Raime](https://github.com/gu-raime) e [Vinicius Henrique](https://github.com/Viniciush550)
 
 # License
 Copyright [yyyy] [name of copyright owner]
