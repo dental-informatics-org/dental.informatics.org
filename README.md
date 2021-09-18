@@ -222,21 +222,6 @@ Isso abrirá o IDLE, onde você pode escrever o código Python e executá-lo com
 
 Parabéns, agora o Python, o pip e o Idle já estão instalados em seu sistema Windows.
 
-
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 # Usage
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=&logo=Google-chrome&logoColor=white)
 ![image](https://img.shields.io/badge/Colab-F9AB00?style=&logo=googlecolab&color=525252)
@@ -245,11 +230,13 @@ Syntax highlighted code block
 ![image](https://img.shields.io/badge/Linux-FCC624?style=&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/iOS-000000?style=&logo=ios&logoColor=white)
+
 As atividades propostas por esse curso presente neste repositório são pensadas para serem compatíveis com todos os dispositivos. Recomendamos o uso de computadores para desenvolver as atividades propostas, mas a visualização pode ser feita também em dispositivos mobile. Verifique o tópico **Roadmap** para seguir o roteiro das atividades.
 
 # Roadmap
 1- [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
-
+2- [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
+3- [Variables Types](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Variable_Types.ipynb)
 # Support or Contact
 Contate os colaboradores do projeto para obter suporte do projeto.
 
@@ -281,5 +268,5 @@ limitations under the License.
 
 # Project status
 
-### O projeto está em andamento.
+### O projeto está em andamento. Versão 1.0.0
 
