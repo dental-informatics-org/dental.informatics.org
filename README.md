@@ -33,7 +33,7 @@ Aqui, separamos todos os materiais necessários para dar base aos conhecimentos 
 Não é necessário nenhuma instalação para estudar por esse repositório. Caso você queira trabalhar localmente em sua máquina recomendamentos instalar a última versão do Python 3, Conda Enviroments e Visual Studio Code.
 
 
-> ## O que é o Google Colaboratory?
+## O que é o Google Colaboratory?
 
 O Colaboratory ou "Colab" permite escrever código Python no seu navegador, com: 
 - Nenhuma configuração necessária
@@ -42,7 +42,7 @@ O Colaboratory ou "Colab" permite escrever código Python no seu navegador, com:
 
 Você pode ser um <strong>estudante</strong>, um <strong>cientista de dados</strong> ou um <strong>pesquisador de IA</strong>, o Colab pode facilitar seu trabalho. Assista ao vídeo <a href="https://www.youtube.com/watch?v=inN8seMm7UI">Introdução ao Colab</a> para saber mais ou simplesmente comece a usá-lo abaixo!
 
-## Primeiros passos
+> ## Primeiros passos
 
 O documento que você está lendo não é uma página da Web estática, mas sim um ambiente interativo chamado notebook Colab que permite escrever e executar código.
 
@@ -64,7 +64,7 @@ Os notebooks do Colab permitem combinar código executável e rich text em um s�
 
 Os notebooks do Colab são notebooks do Jupyter hospedados no Colab. Para saber mais sobre o projeto Jupyter, acesse jupyter.org.
 
-## Ciência de dados
+> ## Ciência de dados
 Com o Colab, você pode aproveitar todo o potencial das conhecidas bibliotecas Python para analisar e ver dados. A célula de códigos abaixo usa **numpy** para gerar dados aleatórios e **matplotlib** para visualizá-los. Para editar o código, basta clicar na célula e começar a editar.
 
 ```
@@ -83,13 +83,13 @@ plt.show()
 
 É possível importar para os notebooks do Colab os dados da sua conta do Google Drive, como planilhas. Também é possível importar do GitHub e de muitas outras fontes. Para saber mais sobre como importar dados e como o Colab pode ser usado para a ciência de dados, consulte o link abaixo em [Como trabalhar com dados.](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR#working-with-data)
 
-## Machine learning
+> ## Machine learning
 
 Com o Colab, é possível importar um conjunto de dados de imagem, treinar um classificador de imagens dentro dele e avaliar o modelo, tudo com apenas <a href="https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb">algumas linhas de código</a>. Os notebooks do Colab executam código dos servidores em nuvem do Google. Isso significa que você pode tirar proveito da potência de hardware do Google, como <a href="#using-accelerated-hardware">GPUs e TPUs</a>, independentemente da potência da sua máquina. Você só precisa de um navegador.
 
 Com o Colab, é possível importar um conjunto de dados de imagem, treinar um classificador de imagens dentro dele e avaliar o modelo, tudo com apenas [algumas linhas de código.](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb) Os notebooks do Colab executam código dos servidores em nuvem do Google. Isso significa que você pode tirar proveito da potência de hardware do Google, como [GPUs e TPUs](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR#using-accelerated-hardware), independentemente da potência da sua máquina. Você só precisa de um navegador.
 
-## Mais recursos
+> ## Mais recursos
 
 ### Como trabalhar com Notebooks no Colab
 - [Visão geral do Colaboratory](/notebooks/basic_features_overview.ipynb)
@@ -116,7 +116,7 @@ Estes são alguns notebooks do curso on-line do Google sobre machine learning. A
 - [TensorFlow com GPUs](/notebooks/gpu.ipynb)
 - [TensorFlow com TPUs](/notebooks/tpu.ipynb)
 
-## Exemplos de machine learning
+> ## Exemplos de machine learning
 
 Para ver exemplos completos das análises interativas de machine learning possibilitadas pelo Colaboratory, confira estes tutoriais que usam modelos do <a href="https://tfhub.dev">TensorFlow Hub</a>.
 
@@ -130,7 +130,7 @@ Vejas alguns exemplos:
 
 <br/>
 
-> ## Instalando o Python 3 no Windows
+## Instalando o Python 3 no Windows
 Para instalar o Python no seu sistema operacional Windows, você precisa baixar o instalador. Acesse o site oficial neste link e clique em download, como mostrado abaixo.
 
 <br/>
@@ -200,7 +200,7 @@ Este comando retornará a versão do python que está instalada em sua máquina.
 ![image](https://python.org.br/images/instalacao-windows/08.png)
 
 
-## IDLE
+> ## IDLE
 
 O IDLE (Ambiente de Desenvolvimento e Aprendizagem Integrado) é um ambiente de desenvolvimento integrado (IDE) para Python. O instalador do Python para Windows contém o módulo IDLE por padrão.
 
