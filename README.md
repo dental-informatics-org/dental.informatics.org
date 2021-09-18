@@ -11,7 +11,6 @@ A programação está inserida em praticamente tudo que usamos atualmente, seja 
 Portanto, aprender as bases das linguagens de programação se tornará uma qualificação essencial para os futuros profissionais, visto que pode elevar a produtividade, as habilidades e se realçar no mercado de trabalho.
 
 Os conhecimentos de programação incluem lógica, tomadas de decisão, resolução de problemas, o que colabora em produções criativas que ajudam no trabalho do profissional. Tudo isso traz eficiencia, criatividade e produz inovação no meio profissional.
-
 <br/>
 
 # Description
@@ -234,9 +233,9 @@ Parabéns, agora o Python, o pip e o Idle já estão instalados em seu sistema W
 As atividades propostas por esse curso presente neste repositório são pensadas para serem compatíveis com todos os dispositivos. Recomendamos o uso de computadores para desenvolver as atividades propostas, mas a visualização pode ser feita também em dispositivos mobile. Verifique o tópico **Roadmap** para seguir o roteiro das atividades.
 
 # Roadmap
-1- [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
-2- [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
-3- [Variables Types](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Variable_Types.ipynb)
+1. [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
+2. [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
+3. [Variables Types](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Variable_Types.ipynb)
 # Support or Contact
 Contate os colaboradores do projeto para obter suporte do projeto.
 
@@ -268,5 +267,5 @@ limitations under the License.
 
 # Project status
 
-### O projeto está em andamento. Versão 1.0.0
+O projeto está em andamento. V1.0.0 - Dental Informatics
 
