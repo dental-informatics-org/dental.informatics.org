@@ -13,6 +13,12 @@ Portanto, aprender as bases das linguagens de programação se tornará uma qual
 Os conhecimentos de programação incluem lógica, tomadas de decisão, resolução de problemas, o que colabora em produções criativas que ajudam no trabalho do profissional. Tudo isso traz eficiencia, criatividade e produz inovação no meio profissional.
 <br/>
 
+
+# Classes Roadmap
+
+1. [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
+2. [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
+
 # Description
 
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=&logo=visual%20studio&logoColor=white)
@@ -232,10 +238,6 @@ Parabéns, agora o Python, o pip e o Idle já estão instalados em seu sistema W
 
 As atividades propostas por esse curso presente neste repositório são pensadas para serem compatíveis com todos os dispositivos. Recomendamos o uso de computadores para desenvolver as atividades propostas, mas a visualização pode ser feita também em dispositivos mobile. Verifique o tópico **Roadmap** para seguir o roteiro das atividades.
 
-# Roadmap
-1. [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
-2. [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
-3. [Variables Types](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Variable_Types.ipynb)
 # Support or Contact
 Contate os colaboradores do projeto para obter suporte do projeto.
 
