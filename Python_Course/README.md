@@ -21,5 +21,5 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 - [Tutorial's Point](https://www.tutorialspoint.com/python/index.htm)
 
 - [How to think like a computer scientist](https://openbookproject.net/thinkcs/python/english3e/)
-
+- [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
 
