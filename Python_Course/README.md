@@ -16,8 +16,10 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 
 
 ## References
-[w3school](https://www.w3schools.com/python/)
-[Tutorial's Point](https://www.tutorialspoint.com/python/index.htm)
-[How to think like a computer scientist](https://openbookproject.net/thinkcs/python/english3e/)
+- [w3school](https://www.w3schools.com/python/)
+
+- [Tutorial's Point](https://www.tutorialspoint.com/python/index.htm)
+
+- [How to think like a computer scientist](https://openbookproject.net/thinkcs/python/english3e/)
 
 
