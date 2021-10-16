@@ -24,34 +24,51 @@
           },
           "label":[
               "AI/ML/DS",
+              "VR/AR",
+              "Bio Sensors",
+              "Big Data",
+              "Extraoral Scanning",
+              "Intraoral Scanning",
+              "Images",
               "Rx-Imgs",
-              "CT-Imgs",
-              "Extraoral Scanning"
+              "CT-Imgs"
           ],
           "color":[
               "rgba(31, 119, 180, 0.8)",
               "rgba(255, 127, 14, 0.8)",
+              "rgba(255, 127, 14, 0.8)",
               "rgba(44, 160, 44, 0.8)",
-              "rgba(214, 39, 40, 0.8)"
+              "rgba(214, 39, 40, 0.8)",
+              "rgba(255, 127, 14, 0.8)",
+              "rgba(255, 127, 14, 0.8)",
+              "rgba(44, 160, 44, 0.8)",
+              "rgba(44, 160, 44, 0.8)"
           ]
         },
         "link":{
           "source":[
               0,
-              1,
-              2
+              6,
+              6,
+              6,
+              6,
           ],
           "target":[
-              1,
-              3,
-              3
+              6,
+              7,
+              8,
+              4,
+              5
           ],
           "value":[
+              50,
+              50,
               50,
               50,
               50
           ],
           "color":[
+              "rgba(0,0,96,0.2)",
               "rgba(0,0,96,0.2)",
               "rgba(0,0,96,0.2)",
               "rgba(0,0,96,0.2)",
@@ -61,7 +78,8 @@
               "stream 1",
               "stream 2",
               "stream 3",
-              "stream 4"
+              "stream 4",
+              "stream 5"
           ]
         }
     }
