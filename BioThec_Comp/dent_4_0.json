@@ -23,15 +23,17 @@
               "width":0.5
           },
           "label":[
-              "AI/ML/DS",
-              "VR/AR",
-              "Bio Sensors",
-              "Big Data",
-              "Extraoral Scanning",
-              "Intraoral Scanning",
-              "Images",
-              "Rx-Imgs",
-              "CT-Imgs"
+              "0-AI/ML/DS",
+              "1-VR/AR",
+              "2-Bio Sensors",
+              "3-Big Data",
+              "4-Extraoral Scanning",
+              "5-Intraoral Scanning",
+              "6-Images",
+              "7-Diagnostic",
+              "8-Treatment",
+              "9-Rx-Imgs",
+              "10-CT-Imgs"
           ],
           "color":[
               "rgba(31, 119, 180, 0.8)",
@@ -48,11 +50,11 @@
         "link":{
           "source":[
               0,
-              1,
+              6,
               2
           ],
           "target":[
-              1,
+              6,
               3,
               3
           ],
