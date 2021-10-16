@@ -22,20 +22,6 @@
               "color":"black",
               "width":0.5
           },
-          "label":[
-              "0-AI/ML/DS",
-              "1-VR/AR",
-              "2-Bio Sensors",
-              "3-Big Data",
-              "4-Extraoral Scanning",
-              "5-Intraoral Scanning",
-              "6-Images",
-              "7-Diagnostic",
-              "8-Treatment",
-              "9-Rx-Imgs",
-              "10-CT-Imgs",
-              "11-Cast"
-          ],
           "color":[
               "rgba(31, 119, 180, 0.8)",
               "rgba(255, 127, 14, 0.8)",
@@ -48,7 +34,23 @@
               "rgba(214, 39, 40, 0.8)",
               "rgba(214, 39, 40, 0.8)",
               "rgba(214, 39, 40, 0.8)",
+              "rgba(214, 39, 40, 0.8)",
               "rgba(214, 39, 40, 0.8)"
+          ],
+          "label":[
+              "0-AI/ML/DS",
+              "1-VR/AR",
+              "2-Bio Sensors",
+              "3-Big Data",
+              "4-Extraoral Scanning",
+              "5-Intraoral Scanning",
+              "6-Images",
+              "7-Diagnostic",
+              "8-Treatment",
+              "9-Rx-Imgs",
+              "10-CT-Imgs",
+              "11-Cast",
+              "12-Automated Treatment Planning"
           ]
         },
         "link":{
