@@ -58,8 +58,8 @@
               "18-Diagnocat",
               "19-Smart Devices",
               "20-Sterilizers",
-              "21-C",
-              "22-D",
+              "21-MultiLevel Custom Interaction",
+              "22-Big Data",
               "23-E",
               "24-F",
               "25-G",
@@ -69,17 +69,21 @@
         "link":{
         "source":[
               0,
-              13
+              13,
+              1
           ],
           "target":[
               6,
-              19
+              19,
+              22,
           ],
           "value":[
               25,
-              25
+              25,
+              13,
           ],
           "color":[
+              "rgba(0,0,96,0.2)",
               "rgba(0,0,96,0.2)",
               "rgba(0,0,96,0.2)"
           ],
