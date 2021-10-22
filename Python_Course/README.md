@@ -23,3 +23,4 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 - [How to think like a computer scientist](https://openbookproject.net/thinkcs/python/english3e/)
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
 - [Python Exercises, Practice Questions and Solutions](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
+- [Algorithms](https://www.geeksforgeeks.org/algorithms-gq/)
