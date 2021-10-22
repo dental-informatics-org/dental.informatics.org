@@ -18,7 +18,8 @@ Os conhecimentos de programação incluem lógica, tomadas de decisão, resoluç
 
 1. [Basic Sintax](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Syntax.ipynb)
 2. [Basic Operators](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Basic_Operators.ipynb)
-4. [Functions and Getting Help](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Functions_and_getting_help.ipynb)
+3. [Functions and Getting Help](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Functions_and_getting_help.ipynb)
+4. [Conditionals and Booleans](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/Python_Course/Conditional_and_booleans.ipynb)
 
 # Description
 
