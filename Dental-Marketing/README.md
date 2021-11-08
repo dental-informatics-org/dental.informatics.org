@@ -57,3 +57,5 @@ mongo --username root --password pay23*3TM0r34Nothin$ --authenticationDatabase a
 [Google Trendings Training](https://newsinitiative.withgoogle.com/)
 [The future of dentistry: Augmented intelligence can identify oral issues, improve practice efficiency](https://www.ada.org/en/publications/ada-news/2021-archive/july/augmented-intelligence-the-future-of-dentistry)
 [brandwatch](https://www.brandwatch.com/platform/)
+
+[oralsin](https://oralsin.com.br/clinicas/pesquisa/ba)
