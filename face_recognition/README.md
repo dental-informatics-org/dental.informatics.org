@@ -68,6 +68,8 @@ Abra o seguinte arquivo no navegador:
 
  face_recognition/flowchart_face_recog.drawio.html 
  
+ Ou veja o pdf do pipeline:
+ [Pipeline's FlowChart](https://github.com/dental-informatics-org/dental.informatics.org/blob/main/face_recognition/Preview.pdf)
  ## Pastas:
  
  /Data contêm a pasta /to_detect em que consiste nas imagens a terem rostos detectados.
