@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="">
-    <img src="igoralves1/Dental-Informatics/blob/main/imgs/aws_health.png" alt="aws_health">
+    <img src="https://github.com/igoralves1/Dental-Informatics/blob/main/imgs/aws_health.png" alt="aws_health">
   </a>
 </p>
 
