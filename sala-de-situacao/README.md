@@ -59,7 +59,7 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 4. [Situation Room Health](https://ivedix.com/solutions/situation-room/)
 5. [Situation Room](https://smallbusinessatwork.org/tool/5/situationroom)
 6. [A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution in Mexico](https://www.frontiersin.org/articles/10.3389/fpubh.2021.735658/full)
-7. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8573138/](A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution in Mexico)
+7. [A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution in Mexico](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8573138/)
 8. [IBM Cognos Analytics with Watson](https://www.ibm.com/products/cognos-analytics)
 9. []()
 10. []()
