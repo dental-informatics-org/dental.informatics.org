@@ -6,6 +6,9 @@
 ![SIG Bahia](img/sig2.png)
 -->
 </h2>
+
+<!-- https://divtable.com/generator/ -->
+<!-- https://www.quackit.com/html/html_table_generator.cfm -->
 <div align="center">
   <table>
     <tbody>
@@ -96,10 +99,5 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 14. []()
 15. []()
 
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
 
 
