@@ -15,17 +15,20 @@
       <tr>
         <td>
           <figure>
-            <img src="img/sig1.png" alt="SIG Bahia" width="200" height="100">
+            <img src="img/sig1.png" alt="SIG Bahia" width="1000" height="300">
             <!--  <figcaption>SHP Bahia - Nazaré em Foco</figcaption> -->
           </figure>
         </td>
         <td>
           <figure>
-            <img src="img/sig2.png" alt="SIG Bahia" width="200" height="100">
+            <img src="img/sig2.png" alt="SIG Bahia" width="1000" height="300">
             <!--  <figcaption>SHP Bahia - Nazaré em Foco</figcaption> -->
           </figure>
         </td>
       </tr>
+        <td colspan="2"><a href="https://www.slideshare.net/Epidemiologist/geoproccessing-ang-gis-for-sus-dministrartion" target="_blank">Estudo de Caso de Usos de SIG em Nazaré-BA, <strong>2005</strong></a></td>
+      <tr>
+      </tr>  
     </tbody>
   </table>
 </div>
