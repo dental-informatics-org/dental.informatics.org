@@ -1,5 +1,9 @@
 # Sala de Situação em Saúde - SUS, Brasil
 
+
+[![Web App Architecture][app-architecture]](https://github.com/igoralves1/Dental-Informatics/blob/main/imgs/work_in_progress_o.png)
+
+
 A sala de situação em saúde, por natureza, tem o propósito de oferecer ferramentas (dados, informaçãoes e estruturas) para que os atores envolvidos no processo saúde-doença (gestores, coordenadores e executores e possivelmente pacientes, entre outros) tomem decições mais acertivas sobre os sistemas de saúde em momentos de crise, quando e onde o acesso a informação é precário, reduzido e extremamente necessário. Essas informações são usadas na tomada de decisões e também no acompanhamento e avalaição das ações escolhidas além do controle do próprio processo de geração de informação em si.
 
 O entendimento do 'REAL' cenário - ou próximo do real, da situação de saúde de uma determinada população num detrminado local e determinado tempo, passado, presente ou futuro, depende da disponibilidade de informações confiáveis, acessíveis e reproduzíveis. O entendimento e/ou a interpretação da situação de saúde é o fator que antecede a tomada de decisão. 
@@ -69,3 +73,23 @@ A percepção da importância e escolha dos indicadores para o elenco a serer us
 14. []()
 15. []()
 
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/igoralves1/Dental-Informatics/graphs/contributors
+
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-url]: https://github.com/igoralves1/Dental-Informatics/issues
+
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/company/coltene-whaledent/
+
+[product-screenshot]: docs/img/screenshot.png
+[app-architecture]: imgs/work_in_progress_o.png
