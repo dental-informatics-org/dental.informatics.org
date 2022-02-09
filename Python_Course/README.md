@@ -6,7 +6,23 @@
   ![SIG Bahia](img/sig2.png)
   -->
 </h3>
-<h4>Authors: Dr Igor Alves, Dr Gustavo Raime</h4>
+
+<h4>Authors:</h4>
+<h4> Dr. Igor Alves
+  <a href="https://www.linkedin.com/in/igoralves1/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
+  </a>
+</h4>
+<h4> Dr. Gustavo Raime
+  <a href="https://www.linkedin.com/in/gustavo-raime-health-innovation/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
+  </a>
+</h4>
+<h4> Vinícius Henrique - Graduando/USP
+  <a href="https://www.linkedin.com/in/gustavo-raime-health-innovation/">
+    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Logo" width="20" height="20">
+  </a>
+</h4>
 
 <!-- https://divtable.com/generator/ -->
 <!-- https://www.quackit.com/html/html_table_generator.cfm -->
