@@ -5,7 +5,8 @@
   ![SIG Bahia](img/sig1.png)
   ![SIG Bahia](img/sig2.png)
   -->
-</h2>
+</h3>
+<h4>Authors: Dr Igor Alves, Dr Gustavo Raime</h4>
 
 <!-- https://divtable.com/generator/ -->
 <!-- https://www.quackit.com/html/html_table_generator.cfm -->
