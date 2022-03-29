@@ -15,7 +15,9 @@ on higher education systems, credentials in 196 countries and territories and ov
 
 [outbreak.info](https://outbreak.info/situation-reports?pango=B.1.617.2)
 [Wisconsin SARS-CoV-2 (hCoV-19) Genomic Dashboard](https://dataportal.slh.wisc.edu/sc2dashboard)
-[]()
+
+### Jobs
+[WHO Academy](https://www.who.int/about/who-academy/work-with-us)
 []()
 []()
 []()
