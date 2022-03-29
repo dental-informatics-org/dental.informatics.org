@@ -47,6 +47,7 @@
 # Core Python Syllabus Course
 - Prerequisite
   - GitHub
+    - [QuickStart](https://docs.github.com/pt/get-started/quickstart/hello-world)   
     - [GitHub APP](https://desktop.github.com/)   
     - [GitKraken](https://www.gitkraken.com/)  
     - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
