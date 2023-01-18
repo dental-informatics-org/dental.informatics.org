@@ -42,4 +42,8 @@
 [Project Alvearie](https://developer.ibm.com/blogs/4-reasons-to-join-project-alvearie-ibms-open-source-healthcare-effort/)
 
 [Dental practice analytics engineered for practice growth](https://www.dentalintel.com/metrics-and-reporting)
-![Dental Inteligence](/img/01.png)
+<p align="center">
+  <a href="">
+    <img src="https://github.com/dental-informatics-org/dental.informatics.org/blob/main/KPIs/img/01.png" alt="DI">
+  </a>
+</p>
