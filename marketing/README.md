@@ -194,6 +194,3 @@
 
 Hola 👋🏻 Mi instagram es @soy_andreadelgado, sigueme y te sigo. 
 https://www.instagram.com/reel/CsoW-COgfy2/?igshid=MzRlODBiNWFlZA==
-
-
-ssh-keygen -t ed25519 -C "igoralves1@gmail.com"
