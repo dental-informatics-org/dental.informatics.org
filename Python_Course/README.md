@@ -152,3 +152,4 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 - [Python Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/)
 - [Python Exercises, Practice Questions and Solutions](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
 - [Algorithms GEEKS4GEEKS](https://www.geeksforgeeks.org/algorithms-gq/)
+- [Differences and Applications of List, Tuple, Set and Dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
