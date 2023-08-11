@@ -153,3 +153,7 @@ To the extent possible under law, [Matias Singers](https://mts.io) has waived al
 - [Python Exercises, Practice Questions and Solutions](https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/)
 - [Algorithms GEEKS4GEEKS](https://www.geeksforgeeks.org/algorithms-gq/)
 - [Differences and Applications of List, Tuple, Set and Dictionary in Python](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
+- [Generative AI in Jupyter](https://blog.jupyter.org/generative-ai-in-jupyter-3f7174824862)
+- [Pandas & Python for Data Analysis by Example – Full Course for Beginners](https://www.youtube.com/watch?v=gtjxAH8uaP0)
+- [Practice Data Science with Real Life Projects](https://app.datawars.io/dashboard)
+- [Generative Voice AI](https://elevenlabs.io/)
