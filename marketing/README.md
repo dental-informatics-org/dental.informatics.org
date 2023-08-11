@@ -194,3 +194,14 @@
 
 Hola 👋🏻 Mi instagram es @soy_andreadelgado, sigueme y te sigo. 
 https://www.instagram.com/reel/CsoW-COgfy2/?igshid=MzRlODBiNWFlZA==
+
+
+https://www.meltwater.com/en
+https://www.similarweb.com/
+https://datasift.com/
+https://socialbearing.com/
+http://anatweet.com/
+https://moz.com/domain-analysis
+https://www.hostinger.com/tutorials/website-worth
+https://www.bloggingtriggers.com/category/seo/
+https://socialblade.com/
