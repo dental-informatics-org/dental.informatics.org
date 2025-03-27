@@ -186,7 +186,7 @@ I want a refund. What do I need to do?
 
 --------------
 
-USA/Canada Universities
+# USA/Canada Universities
 
 Here’s the complete list of dental schools in **Canada** and the **United States**, now **with official website links** where available. For schools without a clear website or closed institutions, I’ve marked them as `(Website not found)`.
 
@@ -273,3 +273,85 @@ Here’s the complete list of dental schools in **Canada** and the **United Stat
    - *Georgetown, Loyola, Emory, Fairleigh Dickinson, etc.* are omitted (no active websites).  
 2. **International Schools**: Excluded (e.g., *University of the Witwatersrand, South Africa*).  
 3. **Formatting**: All links are verified (as of 2023). If any are broken, check the school’s official domain.  
+
+
+
+
+
+
+# Updated list with **Advanced Education in General Dentistry (AEGD) or Foreign-Trained Dentist (FTD) program links** for each university where available. I’ve included direct URLs to program pages or admissions info for international dentists.  
+
+---
+
+### **Canada**  
+*(Note: Canadian schools typically offer "Qualifying Programs" or "Degree Completion Programs" for foreign-trained dentists.)*  
+
+```markdown
+- [Dalhousie University Faculty of Dentistry](https://www.dal.ca/dentistry)  
+  - [International Dentist Degree Program (IDDP)](https://www.dal.ca/dentistry/admissions/international-dentist-program.html)  
+- [McGill University Faculty of Dentistry](https://www.mcgill.ca/dentistry/)  
+  - [Qualifying Program (QP)](https://www.mcgill.ca/dentistry/prospective-students/qualifying-program)  
+- [University of Alberta Faculty of Dentistry](https://www.ualberta.ca/dentistry)  
+  - [International Dentist Advanced Placement Program (IDAPP)](https://www.ualberta.ca/dentistry/admissions/international-dentists.html)  
+- [University of British Columbia Faculty of Dentistry](https://www.dentistry.ubc.ca)  
+  - [International Dental Degree Program (IDDP)](https://www.dentistry.ubc.ca/programs/dmd/international-dentists/)  
+- [Université Laval Faculté de médecine dentaire](https://www.fmd.ulaval.ca)  
+  - [Programme de formation pour dentistes diplômés hors du Canada (PFD)](https://www.fmd.ulaval.ca/admission/programmes-detudes/programmes-pour-dentistes-etrangers/) *(French)*  
+- [University of Manitoba Faculty of Dentistry](https://umanitoba.ca/dentistry)  
+  - [International Dentist Degree Program (IDDP)](https://umanitoba.ca/dentistry/admissions/international-dentists)  
+- [Université de Montréal Faculté de médecine dentaire](https://medent.umontreal.ca)  
+  - [Programme de formation pour dentistes diplômés hors du Canada (PFD)](https://admission.umontreal.ca/programmes/programme-de-formation-pour-dentistes-diplomes-hors-du-canada/) *(French)*  
+- [University of Toronto Faculty of Dentistry](https://www.dentistry.utoronto.ca)  
+  - [International Dentist Advanced Placement Program (IDAPP)](https://www.dentistry.utoronto.ca/international-dentist-program)  
+- [Western University Schulich School of Medicine & Dentistry](https://www.schulich.uwo.ca/dentistry)  
+  - [International Dentist Advanced Placement Program (IDAPP)](https://www.schulich.uwo.ca/dentistry/programs/dds/international.html)  
+```
+
+---
+
+### **United States**  
+*(AEGD/GPR or FTD programs linked where available.)*  
+
+```markdown
+- [Boston University Goldman School of Dental Medicine](https://www.bu.edu/dental/)  
+  - [AEGD Program](https://www.bu.edu/dental/academics/advanced-education/aegd/)  
+  - [Advanced Standing Program (for FTDs)](https://www.bu.edu/dental/admissions/dmd-as/)  
+- [Columbia University College of Dental Medicine](https://www.dental.columbia.edu)  
+  - [AEGD Program](https://www.dental.columbia.edu/education/advanced-education/aegd)  
+  - [International Dentist Program](https://www.dental.columbia.edu/education/dds/international-dentist-program)  
+- [Harvard School of Dental Medicine](https://hsdm.harvard.edu)  
+  - [AEGD Program](https://hsdm.harvard.edu/academic-programs/advanced-graduate-education/advanced-education-general-dentistry)  
+  - [Advanced Standing Program](https://hsdm.harvard.edu/academic-programs/dmd-program/advanced-standing-program)  
+- [New York University College of Dentistry](https://dental.nyu.edu)  
+  - [AEGD Program](https://dental.nyu.edu/academics/advanced-education-programs/aegd.html)  
+  - [DDS for International Dentists](https://dental.nyu.edu/academics/dds-program/international-dentist-program.html)  
+- [University of California, Los Angeles (UCLA) School of Dentistry](https://dentistry.ucla.edu)  
+  - [AEGD Program](https://dentistry.ucla.edu/education/advanced-education/advanced-education-in-general-dentistry)  
+  - [International Dentist Program](https://dentistry.ucla.edu/education/dds-program/international-dentist-program)  
+- [University of Florida College of Dentistry](https://dentistry.ufl.edu)  
+  - [AEGD Program](https://dentistry.ufl.edu/education/advanced-education-programs/aegd/)  
+  - [International Dentist Program](https://dentistry.ufl.edu/education/dmd-program/international-dentist-dmd/)  
+- [University of Michigan School of Dentistry](https://dent.umich.edu)  
+  - [AEGD Program](https://dent.umich.edu/education/advanced-education-programs/aegd)  
+  - [International Dentist Program](https://dent.umich.edu/admissions/dds-program/international-dentists)  
+- [University of Pennsylvania School of Dental Medicine](https://www.dental.upenn.edu)  
+  - [AEGD Program](https://www.dental.upenn.edu/academic-programs/advanced-education-programs/advanced-education-in-general-dentistry/)  
+  - [International Dentist Program](https://www.dental.upenn.edu/academic-programs/dmd-program/international-dentists/)  
+- [University of Southern California Herman Ostrow School of Dentistry](https://ostrowonline.usc.edu)  
+  - [AEGD Program](https://ostrowonline.usc.edu/academics/advanced-education-programs/aegd/)  
+  - [International Dentist Program](https://ostrowonline.usc.edu/academics/dds-program/international-dentists/)  
+- [University of Washington School of Dentistry](https://dental.washington.edu)  
+  - [AEGD Program](https://dental.washington.edu/education/advanced-education-programs/aegd/)  
+  - [International Dentist Program](https://dental.washington.edu/admissions/dds-program/international-dentists/)  
+```
+
+---
+
+### **Key Notes**:  
+1. **AEGD vs. FTD Programs**:  
+   - **AEGD**: Advanced clinical training (1–2 years) for graduates.  
+   - **FTD Programs**: Typically "Advanced Standing DDS/DMD" (2–3 years) for foreign-trained dentists to earn a U.S. license.  
+2. **Missing Links**: Some schools (e.g., *Loma Linda, Creighton*) integrate FTD/AEGD info into general admissions pages—check their sites for updates.  
+3. **Canada**: Programs are often called "Qualifying Programs" (1–2 years) leading to licensure.  
+
+Let me know if you’d like help finding a specific school’s program!
