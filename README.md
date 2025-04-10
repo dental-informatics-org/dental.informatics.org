@@ -1,4 +1,4 @@
-# Dental Informatics: Python Programming for Doctor Dental Surgeons @@
+# Dental Informatics: Python Programming for Doctor Dental Surgeons 
 ![image](https://img.shields.io/github/languages/top/dental-informatics-org/dental.informatics.org)
 ![image](https://img.shields.io/github/repo-size/dental-informatics-org/dental.informatics.org?style=)
 ![image](https://img.shields.io/hexpm/l/plug?style=)
