@@ -3,6 +3,7 @@
 1. [Download](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/download/)
 
 [Syllabus](https://ocw.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2008/pages/syllabus/)
+
 Course Meeting Times
 Lectures: 5 sessions / week for 2 weeks, 3 hours / session
 
